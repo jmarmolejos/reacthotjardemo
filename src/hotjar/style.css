@@ -1,0 +1,346 @@
+body {
+	font-family: 'Karla' !important;
+}
+
+#root div div p {
+	margin-top: 15px !important;
+	margin-left: 10px !important;
+}
+#root div div ul {
+	height: auto !important;
+	overflow: hidden;
+	margin-left: 5px !important;
+	margin-right: 5px !important;
+}
+#root div div ul li {
+	border-bottom: solid rgba(132, 146, 180, .5) 2px !important;
+	border-top: none !important;
+	border-radius: 0 !important;
+	background: none !important;
+	color: #8492B4 !important;
+	font-family: 'Karla' !important;
+	font-size: 14px !important;
+	line-height: 16px !important;
+	height: 20px !important;
+	width: 23.5px !important;
+	opacity: 1 !important;
+	margin-left: 2px !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	text-align: center !important;
+	display: block !important;
+	position: relative !important;
+}
+#root div div ul li::before, #root div div ul li::after {
+	content: '' !important;
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 1px;
+	height: calc(100% + 2px);
+	background: #fff;
+}
+#root div div ul li::after {
+	left: auto;
+	right: 0;
+}
+#root div div ul li:hover {
+	background: none !important;
+	cursor: pointer;
+}
+#_hj_poll_container:first-child > div  {
+	border: 1px solid #E6EAEE !important;
+	border-radius: 4px 4px 0 0 !important;
+	background-color: #FFFFFF !important;
+	box-shadow: 0 4px 10px 0 rgba(132,146,180,0.24) !important;
+	height: 264px !important;
+	width: 272px !important;
+	transform: scale(1.15) !important;
+}
+#root div div p span {
+	height: 72px !important;
+	width: 200px !important;
+	color: #363E4A !important;
+	font-family: 'Karla' !important;
+	font-size: 16px !important;
+	line-height: 24px !important;
+	font-weight: normal;
+	text-align: left !important;
+}
+#root > div > div > div > div  {
+	border-top: none !important;
+}
+#root div div div div div div div:first-child {
+	font-family: 'Karla' !important;
+	font-size: 10px !important;
+	line-height: 16px !important;
+	color: #8492B4 !important;
+	margin-left: 6px !important;
+}
+#root div div div div div div div:nth-child(2) {
+	font-family: 'Karla' !important;
+	font-size: 10px !important;
+	line-height: 16px !important;
+	color: #8492B4 !important;
+	margin-right: 9px !important;
+}
+#root div div div div div button {
+	height: 24px !important;
+	width: 80px !important;
+	border-radius: 32px !important;
+	background-color: #39A6FF !important;
+	box-shadow: 0 4px 8px 0 rgba(57,166,255,0.5) !important;
+	padding: 0px 10px !important;
+	font-weight: normal !important;
+	font-family: 'Karla' !important;
+	font-size: 14px !important;
+	opacity: none !important;
+	margin-right: 6px !important;
+}
+#root div div div div div button:hover, #root div div div div div button:focus, #root div div div div div button:active {
+	background-color: #39A6FF !important;
+	opacity: 1 !important;
+	box-shadow: none !important;
+}
+#root div div div div div button:disabled {
+	cursor: not-allowed !important;
+	opacity: 0.75 !important;
+	box-shadow: none !important;
+}
+
+#root div div p {
+	text-align: left !important;
+	height: 72px !important;
+	width: 176px !important;
+	color: #363E4A !important;
+	font-family: 'Karla' !important;
+	font-size: 16px !important;
+	line-height: 24px !important;
+	margin-bottom: 12px !important;
+}
+#root div div div div div button span {
+	display: none !important;
+}
+#root div div div div {
+	color: #8492B4 !important;
+	margin-top: 3px !important;
+	overflow: visible !important;
+}
+#root div div div div a {
+	color: #8492B4 !important;
+	text-decoration: none !important;
+}
+#root div div > a:first-child {
+	border: none !important;
+	top: 2px !important;
+	width: 20px !important;
+	left: 245px !important;
+	box-shadow: none !important;
+	padding-top: 5px !important;
+}
+#root div div > a:first-child::after {
+	content: 'x' !important;
+	color: #8492B4 ;
+
+}
+#root div div > a:first-child::before {
+	display: none !important;
+}
+#root div div  > a > span {
+	display: none !important;
+}
+#root > div > div > div > div > div > div {
+	width: 100% !important;
+	margin-top: 5px !important;
+}
+#root div div ul li:nth-child(1) {
+	display: none !important;
+}
+#root div div ul:hover > li:nth-child(2) {
+	border-bottom-color: #FF5858 !important;
+}
+#root div div ul:hover > li:nth-child(3) {
+	border-bottom-color: #E06573 !important;
+}
+#root div div ul:hover > li:nth-child(4) {
+	border-bottom-color: #CD6C82 !important;
+}
+#root div div ul:hover > li:nth-child(5) {
+	border-bottom-color: #BA7393 !important;
+}
+#root div div ul:hover > li:nth-child(6) {
+	border-bottom-color: #A67CA4 !important;
+}
+#root div div ul:hover > li:nth-child(7) {
+	border-bottom-color: #9283B4 !important;
+}
+#root div div ul:hover > li:nth-child(8) {
+	border-bottom-color: #7F8BC5 !important;
+}
+#root div div ul:hover > li:nth-child(9) {
+	border-bottom-color: #6A93D5 !important;
+}
+#root div div ul:hover > li:nth-child(10) {
+	border-bottom-color: #569BE7 !important;
+}
+#root div div ul:hover > li:nth-child(11) {
+	border-bottom-color: #39A6FF !important;
+}
+#root div div div ul li:hover ~ li[data-value] {
+	border-bottom-color: rgba(132, 146, 180, .5) !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(2) {
+	color: #FF5858 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(3) {
+	color: #E06573 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(4) {
+	color: #CD6C82 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(5) {
+	color: #BA7393 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(6) {
+	color: #A67CA4 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(7) {
+	color: #9283B4 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(8) {
+	color: #7F8BC5 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(9) {
+	color: #6A93D5 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(10) {
+	color: #569BE7 !important;
+	font-size: 20px !important;
+}
+#root div div div ul li ~ li[data-value]:hover:nth-child(11) {
+	color: #39A6FF !important;
+	font-size: 20px !important;
+}
+#_hj_poll_container:nth-child(2) > div {
+	width: 272px !important;
+	height: 368px !important;
+	border: 1px solid #E6EAEE !important;
+	border-radius: 4px 4px 0 0 !important;
+	background-color: #FFFFFF !important;
+	box-shadow: 0 4px 10px 0 rgba(132,146,180,0.24) !important;
+	transform: scale(1.15) !important;
+}
+#_hj_poll_container:nth-child(2) > div > div {
+	margin-top: -20px !important;
+}
+#_hj_poll_container:nth-child(2) div div div div div  {
+	border-bottom: none !important;
+	border-top: 0px !important;
+	background: none !important;
+	cursor: default !important;
+	margin-bottom: -27px !important;
+}
+#_hj_poll_container:nth-child(2) div div div div div span:first-child {
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px ;
+	border: 1px solid #C1C8D9;
+	width: 13px;
+	height: 13px;
+	display: block;
+	position: absolute;
+	left: 20px;
+	top: 63%;
+}
+#_hj_poll_container:nth-child(2) div div div div div span:hover {
+	cursor: pointer;
+}
+#_hj_poll_container:nth-child(2) div div div div div span {
+	color: #363E4A !important;
+	font-family: 'Karla' !important;
+	font-size: 13px !important;
+}
+#_hj_poll_container:nth-child(2) > div > div > div:nth-child(1n+0) {
+	position: relative;
+	top: -12px !important;
+}
+#_hj_poll_container:nth-child(2) > div > div > div > div > div {
+	position: relative;
+	top: -15px !important;
+	left: 5px !important;
+}
+#_hj_poll_container:nth-child(2) > div > div > div > div div div textarea {
+	border: 1px solid #C1C8D9 !important;
+	color: #363E4A !important;
+	font-family: 'Karla' !important;
+	font-size: 12px !important;
+	line-height: 16px !important;
+	height: 48px !important;
+	width: 168px !important;
+
+}
+#_hj_poll_container div div:first-child div:nth-child(6) > span:first-child {
+	background-image: url(https://static.hotjar.com/static/client/modules/assets/widget_icons_light.png) !important;
+	background-position: -44px;
+	background-size: 80px !important;
+	background-color: #39A6FF;
+	border-color: #39A6FF !important;
+	height: 15px !important;
+	width: 15px !important;
+}
+#_hj_poll_container:nth-child(3) > div {
+	width: 264px !important;
+	height: 216px !important;
+	border: 1px solid #E6EAEE !important;
+	border-radius: 4px 4px 0 0 !important;
+	background-color: #FFFFFF !important;
+	box-shadow: 0 4px 10px 0 rgba(132,146,180,0.24) !important;
+	transform: scale(1.15) !important;
+}
+#_hj_poll_container:nth-child(3) > div > div > div button{
+	display: none !important;
+}
+#_hj_poll_container:nth-child(3) > div button {
+	height: 24px !important;
+	width: 80px !important;
+	border-radius: 32px !important;
+	background-color: #39A6FF !important;
+	box-shadow: 0 4px 8px 0 rgba(57,166,255,0.5) !important;
+	padding: 0px 10px !important;
+	font-weight: normal !important;
+	margin-left: 150px !important;
+	margin-top: 27px !important;
+	font-size: 14px !important;
+	font-family: 'Karla' !important;
+	font-style: normal !important;
+}
+#_hj_poll_container:nth-child(3) > div button:hover, #_hj_poll_container:nth-child(3) > div button:focus {
+	box-shadow: none !important;
+}
+#_hj_poll_container:nth-child(3) > div > div div {
+	margin-top: 18px !important;
+}
+#_hj_poll_container:nth-child(3) > div p {
+	margin-top: 3px !important;
+	color: #363E4A !important;
+	font-family: 'Karla' !important;
+	font-size: 14.8px !important;
+	line-height: 22px !important;
+	width: 89% !important;
+	margin-left: 0px !important;
+}
+#_hj_poll_container:nth-child(3) > div p::first-line {
+	line-height: 50px !important;
+	color: #39A6FF !important;
+	font-size: 16px !important;
+	font-weight: bold !important;
+}
